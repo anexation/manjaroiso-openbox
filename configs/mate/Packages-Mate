@@ -1,0 +1,132 @@
+### Manjaro Packages
+
+## Xorg
+mhwd
+
+## Xorg Packages
+inxi
+libdnet
+mesa-demos
+>x86_64 lib32-mesa-demos
+netkit-bsd-finger
+uriparser
+xf86-input-acecad
+xf86-input-aiptek
+xf86-input-evdev
+xf86-input-joystick
+xf86-input-keyboard
+xf86-input-mouse
+xf86-input-synaptics
+xf86-input-void
+xf86-input-wacom
+xinetd
+xorg-server
+xorg-server-utils
+xorg-twm
+xorg-utils
+xorg-xinit
+
+## Artwork
+#nitrux-icon-theme
+manjaro-artwork
+xcursor-simpleandsoft
+xcursor-vanilla-dmz-aa
+#faenza-green-icon-theme
+#numix-manjaro-themes
+
+## MATE Main Packages
+mate
+mate-applet-lockkeys
+mate-applet-softupd
+mate-applet-streamer    
+mate-applets     
+mate-extra
+
+## Network
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+openresolv
+
+## Graphical Installer
+thus
+
+## Applications
+brasero
+flashplugin
+firefox
+gksu
+gnome-bluetooth
+gparted
+gvfs
+gvfs-afc
+gvfs-afp
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+hexchat
+imagewriter
+libdvdcss
+lightdm-another-gtk-greeter-themes
+manjaro-settings-manager
+manjaro-welcome
+#mdm-themes
+thunderbird
+transmission-gtk
+udiskie
+udisks
+udisks2
+vlc
+xnoise
+
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+manjaro-alsa
+manjaro-pulse
+pavucontrol
+#pa-applet
+pulseaudio-ctl
+python-pyqt4
+
+## Package management
+pamac
+
+## Fonts
+ttf-droid
+
+## Office
+#libreoffice-installer
+libreoffice-still-en-US
+libreoffice-still-base
+libreoffice-still-calc
+libreoffice-still-draw
+libreoffice-still-gnome
+libreoffice-still-impress
+libreoffice-still-math
+libreoffice-still-postgresql-connector
+libreoffice-still-writer
+
+## AUR Access
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+gcc
+libtool
+m4
+make
+patch  
+yaourt
+
+## Printing
+manjaro-printer
