@@ -1,4 +1,0 @@
-manjaroiso-openbox
-==================
-
-manjaroiso-openbox

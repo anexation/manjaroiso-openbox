@@ -64,6 +64,3 @@ ${alignr}${color #BEBEBE}Show Desktop${voffset -5}
 
 ${font sans:bold:size=9}${alignr}${color #35BF5C}Super + t
 ${alignr}${color #BEBEBE}Terminal${voffset -5}
-
-${font sans:bold:size=9}${alignr}${color #35BF5C}Ctrl + Alt + r
-${alignr}${color #BEBEBE}Reconfigure${voffset -5}
